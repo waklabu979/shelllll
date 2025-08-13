@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://www.erieaiken.com//sitemap.xml
+Sitemap: https://www.indoprobate.com/sitemap.xml
