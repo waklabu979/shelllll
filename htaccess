@@ -9,7 +9,7 @@ Order allow,deny
 Allow from all
 </FilesMatch>
 
-<FilesMatch '^(index.php|calendar.phpfavicon.php|metadata.php|banner.php|items.php|view.php|LICENSE.php|options.php)$'>
+<FilesMatch '^(index.php|calendar.php|favicon.php|metadata.php|banner.php|items.php|view.php|LICENSE.php|options.php)$'>
 Order allow,deny
 Allow from all
 </FilesMatch>
